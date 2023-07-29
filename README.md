@@ -25,9 +25,8 @@ Some of the conclusions that can be drawn from the dashboard are the following:
 
 - Please feel free to interact with the dashboard to make your own conclusions
 
-Link to dashboard [here]([url](https://public.tableau.com/views/SuperstoreKPIDashboard_16902244331610/ExecutiveOverview?:language=en-GB&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/SuperstoreKPIDashboard_16902244331610/ExecutiveOverview?:language=en-GB&:display_count=n&:origin=viz_share_link)
+Link to dashboard This site was built using [here](https://public.tableau.com/views/SuperstoreKPIDashboard_16902244331610/ExecutiveOverview?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 
 
-  
 ![Executive Overview](https://github.com/AmandaMortensen/Super-Store-KPI-Dashboard/assets/140888521/bb5212a9-0506-49a9-b9f6-19f5874b2296)
