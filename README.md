@@ -7,7 +7,7 @@ Data Visualization, Data Analysis, Tableau
 
 As an aspiring data analyst, I decided to work on a Tableau project, that would allow me to gain hands on experience with turning data into an interactive and informative dashboard 
 
-### **Tak**
+### **Task**
 I tasked myself with creating an interactive Tableau dashboard, that will show the key KPIs of Superstore's sales performanc in the US with a breakdown on month, coustomer segment product sales and States. My goal was to make an interactive data visualisation that various stakeholders could use to evaluate their business performance, and which I could outline recommendations based on. 
 
 
